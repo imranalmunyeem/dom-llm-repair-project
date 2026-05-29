@@ -1,0 +1,27 @@
+[
+    {
+        "tag": "input",
+        "before": {
+            "id": "username",
+            "placeholder": "Username"
+        },
+        "after": {
+            "data-testid": "combined-user",
+            "id": "username",
+            "placeholder": "Username"
+        }
+    },
+    {
+        "tag": "button",
+        "before": {
+            "class": [
+                "submit-btn"
+            ]
+        },
+        "after": {
+            "class": [
+                "combined-btn"
+            ]
+        }
+    }
+]

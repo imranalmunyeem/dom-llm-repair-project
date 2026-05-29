@@ -1,0 +1,15 @@
+[
+    {
+        "tag": "button",
+        "before": {
+            "class": [
+                "submit-btn"
+            ]
+        },
+        "after": {
+            "class": [
+                "login-btn"
+            ]
+        }
+    }
+]

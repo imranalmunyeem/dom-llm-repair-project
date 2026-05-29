@@ -1,0 +1,13 @@
+[
+    {
+        "tag": "input",
+        "before": {
+            "id": "username",
+            "placeholder": "Username"
+        },
+        "after": {
+            "data-testid": "user-input",
+            "placeholder": "Username"
+        }
+    }
+]

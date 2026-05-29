@@ -1,0 +1,26 @@
+[
+    {
+        "tag": "input",
+        "before": {
+            "id": "username",
+            "placeholder": "Username"
+        },
+        "after": {
+            "id": "password",
+            "placeholder": "Password",
+            "type": "password"
+        }
+    },
+    {
+        "tag": "input",
+        "before": {
+            "id": "password",
+            "type": "password",
+            "placeholder": "Password"
+        },
+        "after": {
+            "id": "username",
+            "placeholder": "Username"
+        }
+    }
+]

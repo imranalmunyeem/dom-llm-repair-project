@@ -1,0 +1,14 @@
+[
+    {
+        "tag": "input",
+        "before": {
+            "id": "username",
+            "placeholder": "Username"
+        },
+        "after": {
+            "id": "username",
+            "placeholder": "Username",
+            "style": "display:none"
+        }
+    }
+]

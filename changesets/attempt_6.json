@@ -1,0 +1,16 @@
+[
+    {
+        "tag": "button",
+        "before": {
+            "class": [
+                "submit-btn"
+            ]
+        },
+        "after": {
+            "aria-label": "Login Button",
+            "class": [
+                "submit-btn"
+            ]
+        }
+    }
+]
